@@ -172,7 +172,7 @@ footer {
         margin: 0;
     }
     nav{
-        padding-right:16px;
+        padding-left:16px;
     }
     .active {
         display: block !important;
